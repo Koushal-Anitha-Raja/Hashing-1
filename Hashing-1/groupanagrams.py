@@ -1,3 +1,5 @@
+#TC: O(n) 
+#SC:O(n)
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         #creating a hashmap
