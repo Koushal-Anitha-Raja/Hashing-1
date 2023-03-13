@@ -1,4 +1,4 @@
-#TC: O(n) 
+#TC: n(mlogm) +m
 #SC:O(n)
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
